@@ -1,0 +1,45 @@
+<!DOCTYPE html> --> It is our html document
+<html> ---> root element of our html page
+    <head>
+        <title>Web page name</title>
+    </head>
+    <body>
+        <--- you can write content here --->
+    </body>
+</html> 
+
+DAY1 -> Tags
+
+Tags has two scopes - 
+
+    1. Block scopes
+    2. inline scope
+
+heading tags ->  block scope
+    there are 6 headings tag in our html 
+        h1 
+        h2
+        h3
+        h4
+        h5
+        h6
+paragraph tag -> block scope
+
+span tag -> Inline scope
+
+div tag -> block scope element
+
+semantic elements - header, footer, article, nav, section, aside, form
+
+image tag - which is a self closing. We can put iamges using this tag
+
+<img src="location of the image: local path/url"/> 
+
+how to go into the fil path
+../ -> we can go outside of our current folder
+./ -> we can go outside of our current file
+
+how to add links in your html
+
+<a href="url"> -> a = anchor tag
+href = hyperlink reference
