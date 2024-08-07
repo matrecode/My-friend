@@ -43,3 +43,32 @@ how to add links in your html
 
 <a href="url"> -> a = anchor tag
 href = hyperlink reference
+
+========================================================================
+
+DAY-2 -> list, table and form
+
+I. list -> list has two types.  
+1. sequential - ordered list -> it is starting with numbers and alphabets e.g 1, I, i, A, a
+2. non-sequential - unordered list -> starting with bullet points e.g disc, circle, square
+
+
+II. Table -> table is consisting with four main factors
+<table>
+    1. <tr>
+    2. <td>
+    3. <th>
+
+III. Form -> form is nothing but to collect the user information or consent.
+
+form has action, method and target attribute.
+action -> location or url
+method -> get or post
+target -> _blank
+
+input tag has some attributes which is making the behaviour of it different.
+
+type="text"
+type="password"
+type="email"
+there are so many types you can explore
