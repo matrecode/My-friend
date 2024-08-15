@@ -72,3 +72,9 @@ type="text"
 type="password"
 type="email"
 there are so many types you can explore
+
+=========================================
+CSS - CASCADING STYLESHEET 
+=========================================
+
+purpose of css =>  to style the html web page with colours fonts position

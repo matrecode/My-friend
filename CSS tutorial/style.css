@@ -1,0 +1,16 @@
+.headingThree {
+  color: green;
+}
+
+/* #heading {
+  color: pink;
+} */
+
+h1 {
+  color: purple;
+  text-align: center;
+  /* box model */
+  border: 2px solid red;
+  padding: 40px;
+  margin: 50px;
+}

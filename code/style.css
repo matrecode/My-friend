@@ -1,0 +1,8 @@
+.wrapper {
+  /* width: 400px;  px rem em vw 1rem = 16px */
+  /* height: 200px; */
+  margin: 20px;
+  padding: 20px;
+  border: 20px solid purple;
+  background-color: pink;
+}
