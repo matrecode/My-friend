@@ -14,3 +14,19 @@ h1 {
   padding: 40px;
   margin: 50px;
 }
+
+li {
+  display: inline;
+}
+
+span {
+  display: block;
+}
+
+.none {
+  display: none;
+}
+
+.hidden {
+  visibility: hidden;
+}
